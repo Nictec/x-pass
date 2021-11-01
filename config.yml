@@ -1,0 +1,3 @@
+dbms: sqlite
+database_uri: "sqlite://data/vault.db"
+secret_key: "asdkjflkjvcdosjfljvlkjslfjlvj304940"
